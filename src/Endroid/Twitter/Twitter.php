@@ -79,7 +79,7 @@ class Twitter
             'oauth_signature_method' => 'HMAC-SHA1',
             'oauth_timestamp' => time(),
             'oauth_token' => $this->accessToken,
-            'oauth_version' => '1.0'
+            'oauth_version' => '1.1'
         );
 
         // Part 1 : http method
