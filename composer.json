@@ -1,8 +1,8 @@
 {
     "name": "endroid/twitter",
     "description": "Endroid Twitter",
-    "keywords": ["endroid", "twitter"],
-    "homepage": "https://github.com/endroid/Twitter",
+    "keywords": ["endroid", "twitter", "1.1"],
+    "homepage": "https://github.com/ebeinarovic/Twitter",
     "type": "library",
     "license": "MIT",
     "authors": [
